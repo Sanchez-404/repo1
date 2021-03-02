@@ -1,0 +1,23 @@
+body{
+    background-color: #002EFF;
+}
+
+/*Comment*/
+
+
+p{
+    color: #FFFFFF;
+    text-align: justify;
+    background-color: red;
+}
+
+h1{
+    color:green;
+    text-align:center;
+    background-color: silver;
+}
+
+h2{
+    color:pink;
+    background-color: springgreen;
+}
